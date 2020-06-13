@@ -1,0 +1,65 @@
+{
+  "id": "1861658",
+  "name": "饿了么",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10503818",
+      "name": "logo",
+      "font_class": "logo",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "1005795",
+      "name": "饿了么",
+      "font_class": "changyonglogo40",
+      "unicode": "e722",
+      "unicode_decimal": 59170
+    },
+    {
+      "icon_id": "436021",
+      "name": "账号管理",
+      "font_class": "zhanghaoguanli",
+      "unicode": "e80a",
+      "unicode_decimal": 59402
+    },
+    {
+      "icon_id": "693616",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "1638357",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "2545152",
+      "name": "首页-销售统计",
+      "font_class": "xiaoshoutongji",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "7473686",
+      "name": "订单管理",
+      "font_class": "dingdanguanli",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "7473687",
+      "name": "店铺管理",
+      "font_class": "dianpuguanli",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    }
+  ]
+}
